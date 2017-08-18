@@ -2,8 +2,8 @@
 //this program is in the public domain.
 
 
-int led= 4;
-int led1= 2;
+int led= 7;
+int led1= 6;
 
 void setup() {
   // declares mode of the pins
