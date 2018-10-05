@@ -8,3 +8,4 @@ download conky file here
 wget -O /home/username/.conkyrc https://raw.githubusercontent.com/rocketmack/rocketmack/master/conkyfile
 
 prishrink by: Drewsif
+cony file by: novasprite
